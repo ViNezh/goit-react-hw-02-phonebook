@@ -1,6 +1,6 @@
 .contactList {
     padding-left: 20px;
-    width: 80%;
+
 
 }
 
@@ -8,18 +8,20 @@
     display: flex;
     justify-content: space-around;
 
+
 }
 
 .fieldName {
-    width: 35%;
-    display: inline-block;
+
+    display: inline-flex;
     margin-bottom: 8px;
+    margin-right: 3px;
 }
 
 .fieldNumber {
 
-    display: inline-block;
-    margin-right: 35px;
+    display: inline-flex;
+    margin-right: 15px;
 }
 
 .deleteBtn {
